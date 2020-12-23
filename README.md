@@ -1,2 +1,3 @@
-# DL_math
-study of math with deep learning
+# 딥러닝을 위한 수학
+
+수학공부 및 코드 저장소입니다.
